@@ -38,13 +38,13 @@
 - [x] knex migrate:latest to make db3 file...
 - [x] check set up on SQLite Studio to make sure it's all kosher
 - [x] run knex:seed make for all seed files in the order they are created in the migration files.
-- [ ] write seed code.
-- [ ] knex seed:run
-- [ ] check that data is correct and in place in SQLite Studio.
-- [ ] Set up server files...db-config.js (in data folder), index.js (root), and server.js (root) files.
-- [ ] set up first table router and model files.
-- [ ] check that server runs
-- [ ] Flesh out user-model then user-router page for endpoints
-- [ ] Flesh out task-model then task-router page for endpoints 
-- [ ] Flesh out resource-model then resource-router page for endpoints
+- [x] write seed code.
+- [x] knex seed:run
+- [x] check that data is correct and in place in SQLite Studio.
+- [x] set up first table router and model files.
+- [x] Set up server files...db-config.js (in data folder), index.js (root), and server.js (root) files.
+- [x] check that server runs
+- [ ] Flesh out projects-model then projects-router page for endpoints
+- [ ] Flesh out tasks-model then tasks-router page for endpoints 
+- [ ] Flesh out resources-model then resources-router page for endpoints
 - [ ] Stretch goals if time!
