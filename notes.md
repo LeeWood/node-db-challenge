@@ -32,7 +32,7 @@
 - [x] yarn add dependencies
 - [x] make sure script file is set up so nodemon runs with server command
 - [x] knex init and set up knex file...
-- [ ] run migration make for migrations files
+- [x] run migration make for migrations files
 - [x] visually plan out schema based on MVP requirements :D 
 - [ ] write up and down migration functions to create tables
 - [ ] knex migrate:latest to make db3 file...
