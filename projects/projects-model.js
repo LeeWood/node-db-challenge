@@ -1,6 +1,6 @@
 const db = require('../data/db-config.js');
 
-function findProj() {
+function findProjs() {
   return db('projects');
 }
 
@@ -10,6 +10,6 @@ function addProj(project) {
 }
 
 module.exports = {
-  findProj,
+  findProjs,
   addProj
 }

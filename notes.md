@@ -44,7 +44,7 @@
 - [x] set up first table router and model files.
 - [x] Set up server files...db-config.js (in data folder), index.js (root), and server.js (root) files.
 - [x] check that server runs
-- [ ] Flesh out projects-model then projects-router page for endpoints
-- [ ] Flesh out tasks-model then tasks-router page for endpoints 
+- [x] Flesh out projects-model then projects-router page for endpoints
 - [ ] Flesh out resources-model then resources-router page for endpoints
+- [ ] Flesh out tasks-model then tasks-router page for endpoints 
 - [ ] Stretch goals if time!
