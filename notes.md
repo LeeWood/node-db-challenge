@@ -5,22 +5,22 @@
 
 # TABLES:
 - *projects*
-  - [ ] id
-  - [ ] proj_name
-  - [ ] description (opt)
-  - [ ] completed (boolean, false if null) 
+  - [x] id
+  - [x] proj_name
+  - [x] description (opt)
+  - [x] completed (boolean, false if null) 
 
 - *resources*
-  - [ ] id
-  - [ ] resourse_name (unique)
-  - [ ] description (opt)
+  - [x] id
+  - [x] resourse_name (unique)
+  - [x] description (opt)
   
 - *tasks*
-  - [ ] id
-  - [ ] description
-  - [ ] notes (opt)
-  - [ ] completed (boolean, false if null) `defaultTo(false)`
-  - [ ] proj_id (__FK__)
+  - [x] id
+  - [x] description
+  - [x] notes (opt)
+  - [x] completed (boolean, false if null) `defaultTo(false)`
+  - [x] proj_id (__FK__)
 
 - *project_resources* 
   - [ ] proj_id (__FK__)
